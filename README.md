@@ -1,2 +1,2 @@
 # EMTrack
-Code for 'EMTrack Efficient Multimodal Object Tracking'
+Code for 'EMTrack: Efficient Multimodal Object Tracking'
